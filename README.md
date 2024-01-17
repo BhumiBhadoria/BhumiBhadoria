@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN stack skills<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with SaaS<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about tech-startups, full stack development<br>⚡ Fun fact Why do programmers never lie? Because the truth is in the code.
+🔭 I’m currently working on MERN stack skills<br>👯 I’m looking to collaborate on SaaS <br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about tech-startups, full stack development<br>⚡ Fun fact Why do programmers never lie? Because the truth is in the code.
 
 
 ## 🌐 Socials:
